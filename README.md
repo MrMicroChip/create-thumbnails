@@ -74,7 +74,7 @@ A few observations in respect of actions whilst the plug-in is running.
 
 ### Initial Dialog
 Once you start the plug-in, a Dialog Box will be displayed, which will enable you to
-provide the information required, as follows:-
+provide the information required, as follows:-\
 `Source JPG Directory`\
 You should select the directory that contains one or more JPG files.  The plug-in will create a
 thumbnail of each of these files.\
